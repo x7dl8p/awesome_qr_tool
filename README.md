@@ -36,8 +36,8 @@ A modern, multilingual QR code tool that allows you to read, generate, and manag
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/x7dl8p/theQrTool.git
-cd theQrTool
+git clone https://github.com/x7dl8p/awesome_qr_tool.git
+cd awesome_qr_tool
 ```
 
 2. Install dependencies:
