@@ -2,7 +2,12 @@
 
 A modern, multilingual QR code tool that allows you to read, generate, and manage QR codes directly in your browser. Built with Next.js and TypeScript.
 
-![The QR Tool Preview](public/placeholder-logo.png)
+![Screenshot from 2025-05-20 19-12-06](https://github.com/user-attachments/assets/c17adada-36d3-41ca-9720-58c744a1034f)
+![Screenshot from 2025-05-20 19-12-45](https://github.com/user-attachments/assets/5c400244-950f-40e0-bf97-9efc1a18fb77)
+![Screenshot from 2025-05-20 19-12-56](https://github.com/user-attachments/assets/f3508909-5b28-4b38-9919-1327e3a539f9)
+
+
+
 
 ## Features
 
