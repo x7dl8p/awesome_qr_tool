@@ -7,7 +7,7 @@ import { I18nProvider } from "@/app/lib/i18n/i18n-context"
 import { Toaster } from "@/components/ui/toaster"
 import { Analytics } from "@vercel/analytics/next"
 import { Suspense } from "react"
-
+ 
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
